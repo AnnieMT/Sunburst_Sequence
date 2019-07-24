@@ -2,7 +2,7 @@ Sunburst Sequence
 =================================================
 By **Annie Thornton**<br>
 
-![Sequences Sunburst](https://github.com/AnnieMT/Sunburst_Sequence/sunburstSequence.gif)
+![Sequences Sunburst](https://github.com/AnnieMT/Sunburst_Sequence/blob/master/sunburstSequence.gif)
 
 Files
 -----------
